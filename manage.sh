@@ -1,0 +1,1 @@
+uv run project/manage.py
